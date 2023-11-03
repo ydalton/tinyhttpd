@@ -16,4 +16,7 @@ SYSCALL bind, SYS_bind
 SYSCALL listen, SYS_listen
 SYSCALL accept, SYS_accept
 SYSCALL sendto, SYS_sendto
+SYSCALL recvfrom, SYS_recvfrom
 SYSCALL shutdown, SYS_shutdown
+SYSCALL mmap, SYS_mmap
+SYSCALL munmap, SYS_munmap
